@@ -1,0 +1,41 @@
+GUION PARA GRABAR LAS VOCES DE ZENBOT
+=====================================
+Graba cada texto con tu voz y guarda el archivo en esta carpeta (audio/) con el nombre indicado, en formato MP3 (o WAV).
+Si un archivo no existe, Zenbot usa una voz provisional del navegador. Solo los dos primeros se reproducen solos, una vez; los demás suenan cuando el visitante pulsa "Escuchar".
+
+ARCHIVO: bienvenida.mp3
+TEXTO: ¡Hola! Soy Zenbot, el asistente virtual de ZenFit. Estoy aquí para ayudarte a recorrer el sitio. ZenFit es un espacio sobre deporte, alimentación equilibrada y bienestar, con rutinas, información de nutrición, hábitos saludables y un test para evaluar los tuyos. Puedes moverte con el menú de arriba, o pedirme que te cuente qué hay en cada sección y en cada tarjeta. ¡Tracción explosiva, fuerza mental!
+
+ARCHIVO: menu.mp3
+TEXTO: Aquí abajo tienes el menú de dudas frecuentes. Elige una y te la explico, o pídeme un recorrido por la página. Cuando quieras volver a verme, toca el círculo de la esquina.
+
+ARCHIVO: zenfit.mp3
+TEXTO: ZenFit es un sitio informativo sobre deporte, alimentación equilibrada y bienestar. Su lema es tracción explosiva, fuerza mental: moverte con energía y cuidar también tu mente. Aquí encontrarás rutinas, información de nutrición, hábitos saludables y un test para evaluar los tuyos.
+
+ARCHIVO: secciones.mp3
+TEXTO: El sitio tiene seis secciones en el menú de arriba: Inicio, Nosotros, Rutinas, Nutrición, Bienestar y Contacto. ¿A cuál quieres ir?
+
+ARCHIVO: rutinas.mp3
+TEXTO: En Rutinas hay seis deportes en tarjetas: baloncesto, fútbol, voleibol, atletismo, natación y boxeo. También seis circuitos de ejercicios con pasos, dosis y cuidados, una semana de ejemplo para principiantes, y guías de calentamiento y recuperación.
+
+ARCHIVO: nutricion.mp3
+TEXTO: Nutrición tiene una tabla de nutrientes, el plato equilibrado, qué comer antes, durante y después de entrenar, consejos de hidratación y un acordeón con ejemplos de desayuno, comida, cena y colaciones.
+
+ARCHIVO: bienestar.mp3
+TEXTO: Bienestar reúne seis tarjetas sobre descanso, hidratación, organización del tiempo, emociones, hábitos saludables y constancia. Al final está el test de hábitos, con una calificación sobre cien.
+
+ARCHIVO: nosotros.mp3
+TEXTO: En Nosotros conocerás la misión y la filosofía de ZenFit, el significado del logotipo, una animación hecha con Canvas, nuestros valores y pestañas con tips, consejos e ideas.
+
+ARCHIVO: contacto.mp3
+TEXTO: En Contacto hay un formulario. Escribe tu nombre, tu correo, elige un tema y cuéntanos tu duda o sugerencia. Nos encantará leerte.
+
+ARCHIVO: tarjetas.mp3
+TEXTO: Son los recuadros que se levantan y se resaltan en rojo cuando pasas el cursor. En Inicio te llevan a Rutinas, Nutrición, Bienestar y Nosotros. En Rutinas muestran deportes y circuitos, en Nutrición los grupos de alimentos y en Bienestar los hábitos clave. Si quieres, te las señalo en un recorrido.
+
+ARCHIVO: test.mp3
+TEXTO: Está en Bienestar. Contestas quince preguntas con tres opciones: casi siempre, a veces o casi nunca. Al final recibes una calificación sobre cien, tu resultado por área y consejos. Es orientativo y no sustituye a un profesional de la salud.
+
+ARCHIVO: celular.mp3
+TEXTO: Sí. ZenFit se adapta a computadoras, tabletas y celulares. En pantallas pequeñas, el menú se convierte en un botón de hamburguesa.
+
